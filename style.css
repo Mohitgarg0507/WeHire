@@ -1,0 +1,5 @@
+.card {
+        margin: 130px auto auto auto;
+        float: none; /* Added */
+        background-color: black;
+}
